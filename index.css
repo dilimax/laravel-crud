@@ -1,0 +1,8 @@
+h1{
+    font-size: 2rem;
+    color: navy;
+    background-color: antiquewhite;
+    border-left: 1px solid #000;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
